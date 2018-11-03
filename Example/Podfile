@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PopoverBackgroundView_Example' do
+  pod 'PopoverBackgroundView', :path => '../'
+
+  target 'PopoverBackgroundView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
