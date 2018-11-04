@@ -5,7 +5,6 @@ target 'PopoverBackgroundView_Example' do
 
   target 'PopoverBackgroundView_Tests' do
     inherit! :search_paths
-
     
   end
 end

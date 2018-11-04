@@ -1,0 +1,16 @@
+PODS:
+  - PopoverBackgroundView (0.1.0)
+
+DEPENDENCIES:
+  - PopoverBackgroundView (from `../`)
+
+EXTERNAL SOURCES:
+  PopoverBackgroundView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopoverBackgroundView: 7c70a212c80a58cae127682230eec643844726f2
+
+PODFILE CHECKSUM: 3f345363f6429480970d9367a6f563290c9af729
+
+COCOAPODS: 1.5.3
