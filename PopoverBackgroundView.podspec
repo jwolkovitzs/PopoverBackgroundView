@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PopoverBackgroundView'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'PopoverBackgroundView replacement for iOS that allows fullscreen and background fadein animation.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ The PopoverBackgroundView sets it self as the currentBackground in the PopoverBa
   s.author           = { 'jwolkovitzs' => 'JWolkovitz@gmail.com' }
   s.source           = { :git => 'https://github.com/jwolkovitzs/PopoverBackgroundView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
   s.ios.deployment_target = '8.0'
   s.platform      = :ios, '8.0'
 
